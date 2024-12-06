@@ -29,8 +29,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake.svg?palette=github-light&color_snake=#f92672&color_dots=#161B22,#FEE6EF,#FDA6C5,#FB659C,#F92672
-            dist/snake-dark.svg?palette=github-dark&color_snake=#f92672&color_dots=#161B22,#FEE6EF,#FDA6C5,#FB659C,#F92672
+            dist/snake.svg?palette=github-light&color_snake=#66D9EF&color_dots=#161B22,#FEE6EF,#FDA6C5,#FB659C,#F92672
+            dist/snake-dark.svg?palette=github-dark&color_snake=#66D9EF&color_dots=#161B22,#FEE6EF,#FDA6C5,#FB659C,#F92672
           
           
       # push the content of <build_dir> to a branch
