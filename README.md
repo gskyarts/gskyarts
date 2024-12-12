@@ -114,7 +114,7 @@ playwright&nbsp;&nbsp;&nbsp;&nbsp;
 | <img title="german" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/de.svg" /> | <img title="english" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/us.svg" /> | <img title="italian" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/it.svg" /> |
 |  |  | <img title="albanian" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/al.svg" /> |
 
-## Stats
+## Fun part
 
 <picture>
   <source
@@ -127,4 +127,17 @@ playwright&nbsp;&nbsp;&nbsp;&nbsp;
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gskyarts&show_icons=true&icon_color=66D9EF&bg_color=00000000&hide_border=true&title_color=f92672&text_color=ffffff" />
 </picture>
-<picture
+
+
+
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/gskyarts/gskyarts/refs/heads/output/snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/gskyarts/gskyarts/refs/heads/output/snake.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://raw.githubusercontent.com/gskyarts/gskyarts/refs/heads/output/snake-dark.svg" />
+</picture>
