@@ -1,6 +1,10 @@
-# Hi there 👋
+<h1 align="center">
+  Hi There! 👋, I am <b>Giovanni</b><br />
+</h1>
+<h3 align="center">
+  Developer, dad and I just love helping people and making them happy.
+</h3>
 
-**Developer, dad and I just love helping people and making them happy.** 
 
 I'm a developer and proud dad who enjoys creating web experiences that not only work well but also bring joy to users. I'm always interested in new tech and I spend a lot of time with my family, friends and hobbies. 
 
@@ -8,7 +12,8 @@ I'm a developer and proud dad who enjoys creating web experiences that not only 
 
 I believe in honest, loyal and teamwork. I think it's important to have a good work-life balance, and being there for my family helps me to sty grounded. I'm open to constructive criticism as a chance to grow and I regularly engage in self-reflection. I'm open and honest - that's me! I believe these values drive personal growth just as much as technical skills.
 
-I'm currently on a journey to improve my skills and knowledge, both in development and life. I'm trying to improve my English, and I plan to learn Albanian and Italian as well. I'm always striving to grow and enjoy life to the fullest.
+I'm currently on a journey to improve my skills and knowledge, both in development and life. I'm trying to improve my English, and I plan to learn Albanian and Italian as well. I'm always striving to grow and enjoy life to the fullest.      
+
 
 **Feel free to reach out via:**
 
@@ -108,3 +113,18 @@ playwright&nbsp;&nbsp;&nbsp;&nbsp;
 | ------ | ---- | ----- |
 | <img title="german" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/de.svg" /> | <img title="english" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/us.svg" /> | <img title="italian" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/it.svg" /> |
 |  |  | <img title="albanian" height="16" src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/al.svg" /> |
+
+## Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gskyarts&show_icons=true&icon_color=66D9EF&bg_color=00000000&hide_border=true&title_color=f92672&text_color=ffffff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gskyarts&show_icons=true&icon_color=66D9EF&bg_color=00000000&hide_border=true&title_color=f92672&text_color=000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gskyarts&show_icons=true&icon_color=66D9EF&bg_color=00000000&hide_border=true&title_color=f92672&text_color=ffffff" />
+</picture>
+<picture
