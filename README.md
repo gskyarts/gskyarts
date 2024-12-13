@@ -39,15 +39,15 @@ I'm currently on a journey to improve my skills and knowledge, both in developme
 <img title="vite" height="24" src="https://cdn.simpleicons.org/vite/66D9EF/66D9EF?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="shadcn ui" height="24" src="https://cdn.simpleicons.org/shadcnui/66D9EF/66D9EF?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="tailwindcss" height="24" src="https://cdn.simpleicons.org/tailwindcss/66D9EF/66D9EF?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;<!-- 25% -->
-<img title="zod" height="24" src="https://cdn.simpleicons.org/zod/000/fff?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;<!-- Backend -->
-<img title="postgresql" height="24" src="https://cdn.simpleicons.org/postgresql/000/fff?viewbox=auto" />
+<img title="zod" height="24" src="https://cdn.simpleicons.org/zod/000/fff?viewbox=auto" />
 
 <!-- Backend -->
 <!-- 100% -->
 <img title="php" height="24" src="https://cdn.simpleicons.org/php/f92672/f92672?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="mysql" height="24" src="https://cdn.simpleicons.org/mysql/f92672/f92672?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;<!-- 50% -->
 <img title="nextjs" height="24" src="https://cdn.simpleicons.org/nextdotjs/66D9EF/66D9EF?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img title="mariadb" height="24" src="https://cdn.simpleicons.org/mariadb/66D9EF/66D9EF?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;<!-- CMS --><!-- 100% -->
+<img title="mariadb" height="24" src="https://cdn.simpleicons.org/mariadb/66D9EF/66D9EF?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img title="postgresql" height="24" src="https://cdn.simpleicons.org/postgresql/000/fff?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;<!-- CMS --><!-- 100% -->
 <img title="typo3" height="24" src="https://cdn.simpleicons.org/typo3/f92672/f92672?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;<!-- Others --><!-- 100% -->
 <img title="json" height="24" src="https://cdn.simpleicons.org/json/f92672/f92672?viewbox=auto" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="markdown" height="24" src="https://cdn.simpleicons.org/markdown/f92672/f92672?viewbox=auto" />
